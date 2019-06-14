@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/08 06:28:13.000.706,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/10 15:20:08.000.239,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/22 19:07:22.000.296,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/24 14:22:59.000.642,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/25 16:12:45.000.904,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/10 08:35:32.000.986,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/26 08:05:06.000.019,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 07:38:27.000.022,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 23:22:32.000.090,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/16 09:20:03.000.674,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/03 09:04:23.000.777,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/04 13:00:12.000.631,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/11 13:52:34.000.392,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/31 10:04:33.000.863,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/31 10:06:41.000.530,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/11 16:19:01.000.686,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/27 20:01:37.000.135,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/07 20:50:05.000.357,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 09:47:39.000.523,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 16:30:59.000.726,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/20 10:28:52.000.803,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 08:02:57.000.161,=C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 08:15:12.000.625,C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\src\LineNotify\Unit1.dfm</Transaction>
+    <Transaction>2018/12/01 08:15:12.000.625,C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\src\LineNotify\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 08:15:18.000.905,C:\Users\xchinjo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\src\LineNotify\LineNotify.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
